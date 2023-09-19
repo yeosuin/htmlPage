@@ -136,7 +136,7 @@
     line-height: 5px;
 }
 .img1{
-    background-image: url("image/이미지1.PNG");
+    background-image: url("/image/이미지1.PNG");
     width: 400px;
     height: 500px;
     margin-top: 100px;
@@ -144,7 +144,7 @@
 }
 
 .img2{
-    background-image: url("image/이미지2.gif");
+    background-image: url("/image/이미지2.gif");
     width: 350px;
     height: 300px;
     margin-top: 100px;
@@ -152,7 +152,7 @@
 }
 
 .img3{
-    background-image: url("image/이미지4.PNG");
+    background-image: url("/image/이미지4.PNG");
     width: 500px;
     height: 500px;
     margin-top: 100px;
@@ -160,7 +160,7 @@
 }
 
 .img4{
-    background-image: url("image/이미지5.PNG");
+    background-image: url("/image/이미지5.PNG");
     width: 500px;
     height: 400px;
     margin-top: 100px;
@@ -168,7 +168,7 @@
 }
 
 .img5{
-    background-image: url("image/이미지6.PNG");
+    background-image: url("/image/이미지6.PNG");
     width: 300px;
     height: 400px;
     margin-top: -150px;
@@ -176,14 +176,14 @@
 }
 
 .img6{
-    background-image: url("image/이미지7.PNG");
+    background-image: url("/image/이미지7.PNG");
     width: 500px;
     height: 300px;
     margin-left: 100px;
 }
 
 .img7{
-    background-image: url("image/이미지8.PNG");
+    background-image: url("/image/이미지8.PNG");
     width: 800px;
     height: 500px;
     margin-left: 300px;
